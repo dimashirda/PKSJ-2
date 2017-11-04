@@ -1,4 +1,6 @@
 # PKSJ-2
 ### Anggota Kelompok
 
-|   Nama    | NRP   
+|Nama      |NRP    |
+|---|---|
+Dimas Hirda P
