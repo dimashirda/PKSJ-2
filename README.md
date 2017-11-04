@@ -14,3 +14,13 @@ Dimas Hirda P | 5114100147
     (sumber: https://id.wikipedia.org/wiki/Ubuntu)
   * Ubuntu Server
   adalah suatu desain ubuntu yang digunakan untuk diinstall di lingkungan enterprise atau perusahaan untuk keperluan seperti web server ataupun router, secara default versi server ini tidak menyertakan antarmuka GUI, yang ada hanya shell alias Command line,aplikasi bawaan dari ubuntu server sekedar info buat anda berupa aplikasi serveri webserver, DNS server, DHCP server, firewall, openSSH, dan applikasi yang berhubungan dengan server, teknologi yang dibenamkan diserver juga umumnya hanya dipakai oleh orang yang benar benar advanced di Linux. (sumber: https://etix.wordpress.com/2010/01/28/perbedaan-ubuntu-server-dan-desktop/)
+
+#### 2. Tools yang digunakan
+ Wordpress Plugin
+ * Video Player versi 1.5.16
+ * League Manager versi 3.9.11
+ 
+ Tools
+ * SQL Map
+ * Wpscan
+ 
